@@ -1,0 +1,13 @@
+{
+  "width": 2560,
+  "height": 1440,
+  "fps": 60,
+  "fit": "cover",
+  "orientation": "portrait",
+  "min_short_edge": 0,
+  "min_fps": 0,
+  "seed": 42,
+  "preset": "veryfast",
+  "crf": 20,
+  "threads": 12
+}
